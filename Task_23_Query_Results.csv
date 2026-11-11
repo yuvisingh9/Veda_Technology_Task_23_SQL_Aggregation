@@ -1,0 +1,11 @@
+Query,Result
+Q1 Total orders,total_orders=8
+Q2 Total sales,total_sales=14160.0
+Q3 Average order value,average_order_value=1770.0
+Q4 Minimum and maximum order,"minimum_order_value=800, maximum_order_value=3900"
+Q5 Sales by region,"region=NULL, order_count=1, total_sales=800.0; region=East, order_count=1, total_sales=900.0; region=North, order_count=3, total_sales=7290.0; region=South, order_count=2, total_sales=3970.0; region=West, order_count=1, total_sales=1200.0"
+Q6 Orders by status,"status=Cancelled, order_count=1; status=Completed, order_count=5; status=Pending, order_count=2"
+Q7 Product price statistics by category,"category=Accessories, average_product_price=925.0, minimum_price=650, maximum_price=1200; category=Electronics, average_product_price=1200.0, minimum_price=900, maximum_price=1500; category=Stationery, average_product_price=100.0, minimum_price=80, maximum_price=120"
+Q8 Units and sales by product,"product_name=Keyboard, units_sold=3, sales_value=4500.0; product_name=Wireless Mouse, units_sold=6, sales_value=3900.0; product_name=Laptop Stand, units_sold=2, sales_value=2400.0; product_name=USB Hub, units_sold=3, sales_value=1800.0; product_name=Notebook, units_sold=15, sales_value=1200.0; product_name=Pen Set, units_sold=3, sales_value=360.0"
+Q9 Monthly sales,"sales_month=2026-10, monthly_sales=7390.0; sales_month=2026-11, monthly_sales=6770.0"
+Q10 NULL check,"customers_with_missing_email=1, items_with_missing_price=1, non_null_item_prices=13, total_item_rows=14"
